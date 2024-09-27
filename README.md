@@ -50,11 +50,5 @@ To run this project on your local machine, follow the steps below:
     http://localhost:3000
     ```
 
-## Tech Stack Used
 
-- **Node.js**: Backend framework for creating server-side logic.
-- **MongoDB**: NoSQL database for storing interview questions and experiences.
-- **HTML5 & CSS3**: For building the structure and styling of the web pages.
-- **Bootstrap**: CSS framework for responsive design.
-- **JavaScript**: Client-side interaction.
 
